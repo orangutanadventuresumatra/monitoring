@@ -37,6 +37,7 @@ Fokus utama: **realtime** dan **minimal bandwidth**.
 | [docs/requirements.md](docs/requirements.md) | Functional & non-functional requirements |
 | [docs/design.md](docs/design.md) | Desain teknis & arsitektur |
 | [docs/planning.md](docs/planning.md) | Roadmap bertahap & rencana eksekusi |
+| [docs/rancangan_frontend.md](docs/rancangan_frontend.md) | Rancangan UI/UX & teknis frontend (dashboard) |
 | [docs/RANCANGAN.md](docs/RANCANGAN.md) | Draf arsitektur eksplorasi (multi-backend) |
 | [docs/STACK.md](docs/STACK.md) | Rekomendasi library Go (terbaru, permisif) |
 
